@@ -865,27 +865,6 @@ a {
     padding-right: 4rem;
   }
 }
-.cid-skBkhqoKdr {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
-}
-.cid-skBkhqoKdr .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.4;
-}
-.cid-skBkhqoKdr form .mbr-section-btn {
-  text-align: center;
-  width: 100%;
-}
-.cid-skBkhqoKdr form .mbr-section-btn .btn {
-  display: inline-flex;
-}
-@media (max-width: 991px) {
-  .cid-skBkhqoKdr form .mbr-section-btn .btn {
-    width: 100%;
-  }
-}
 .cid-s48OLK6784 {
   z-index: 1000;
   width: 100%;
